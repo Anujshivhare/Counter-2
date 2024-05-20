@@ -1,8 +1,43 @@
-# React + Vite
+# Number Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Number Counter](https://i.ibb.co/Gknf4Wr/Counter-1.png)
 
-Currently, two official plugins are available:
+Number Counter is a simple website built using React that allows users to increment, decrement, and save numbers.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Increment and Decrement:** Increase or decrease the displayed number with the click of a button.
+- **Save Numbers:** Save the current number for future reference.
+- **User-Friendly Interface:** Intuitive design for easy number manipulation.
+
+## Technologies Used
+
+- React
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/Anujshivhare/Number-Counter.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd Number-Counter
+    ```
+
+3. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+4. Start the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+5. Open your browser and visit [http://localhost:5173](http://localhost:5173) to start using the Number Counter.
